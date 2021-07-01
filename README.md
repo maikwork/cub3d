@@ -1,10 +1,10 @@
 # How to work with it?
 
-##Instllation
+## Instllation
 
     git clone https://github.com/maikwork/mini_wulf.git
 
-##Usage
+## Usage
 
     make
 
