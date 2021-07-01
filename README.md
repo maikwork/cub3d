@@ -1,6 +1,9 @@
 # How to work with it?
+
 ##Instllation
+
     git clone https://github.com/maikwork/mini_wulf.git
+
 ##Usage
 
     make
